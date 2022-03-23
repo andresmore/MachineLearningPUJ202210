@@ -3,3 +3,6 @@ Repository for notebooks for the PUJ Machine Learning Course for the 202210 peri
 
 ## Workshop 1.1 - Linear Regression
 [Linear regression notebook](notebooks/Machine_Learning_Workshop_1_1_Linear_regression.ipynb)
+
+## Workshop 1.2 - Logistic Regression
+[Logistic regression_notebook](notebooks/Machine_Learning_Workshop_1_2_Logistic_regression.ipynb)
