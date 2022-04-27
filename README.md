@@ -13,4 +13,7 @@ Link available via google colab in brightspace
 ## Workshop 3 - K-means and GMM
 [K-means and GMM notebook](notebooks/Machine_Learning_Workshop_3_K_means_and_GMM.ipynb)
 
+## Workshop 4 - Outliers via One-class SVM
+[One-class SVM](notebooks/Machine_Learning_Workshop_4_SVM_for_anomaly_detection.ipynb)
+
 
